@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+  <title>夕暮れの街</title>
+  <defs><linearGradient id="sunset" x2="0" y2="1"><stop stop-color="#675d97"/><stop offset=".58" stop-color="#ec9c86"/><stop offset="1" stop-color="#f9ce9a"/></linearGradient></defs>
+  <rect width="600" height="360" fill="url(#sunset)"/>
+  <circle cx="445" cy="150" r="53" fill="#ffdcaa"/>
+  <path d="M0 290 H65 V188 H130 V267 H180 V155 H244 V253 H294 V210 H354 V283 H400 V174 H474 V254 H523 V218 H600 V360 H0Z" fill="#38435f"/>
+  <g fill="#ffdba2"><rect x="85" y="218" width="12" height="16"/><rect x="202" y="183" width="12" height="16"/><rect x="226" y="183" width="12" height="16"/><rect x="202" y="220" width="12" height="16"/><rect x="320" y="237" width="12" height="16"/><rect x="426" y="200" width="12" height="16"/><rect x="450" y="200" width="12" height="16"/><rect x="547" y="248" width="12" height="16"/></g>
+  <rect y="334" width="600" height="26" fill="#25334a"/>
+</svg>

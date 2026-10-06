@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+  <title>山と湖</title>
+  <rect width="600" height="360" fill="#d4e9ed"/>
+  <path d="M0 270 L132 116 L238 268Z" fill="#698c86"/>
+  <path d="M122 270 L333 56 L542 270Z" fill="#506f74"/>
+  <path d="M259 132 L333 56 L405 132 L373 120 L333 90 L295 121Z" fill="#f7f9f5"/>
+  <path d="M414 270 L525 147 L600 237 L600 270Z" fill="#79968c"/>
+  <rect y="270" width="600" height="90" fill="#4a9ab1"/>
+  <g stroke="#a8dae1" stroke-width="3" opacity=".8"><path d="M44 294 H185 M254 316 H411 M424 287 H570 M64 337 H227 M361 346 H533"/></g>
+</svg>

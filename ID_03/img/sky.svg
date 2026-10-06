@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+  <title>青い空と雲</title>
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#5aaee8"/><stop offset="1" stop-color="#d5f1ff"/></linearGradient></defs>
+  <rect width="600" height="360" fill="url(#sky)"/>
+  <circle cx="455" cy="88" r="47" fill="#ffe6a1"/>
+  <g fill="#fff"><ellipse cx="126" cy="110" rx="82" ry="26"/><circle cx="99" cy="92" r="32"/><circle cx="146" cy="88" r="38"/><ellipse cx="345" cy="166" rx="65" ry="19"/><circle cx="328" cy="151" r="24"/><circle cx="360" cy="148" r="27"/></g>
+  <path d="M0 282 Q95 246 185 280 T367 277 T600 276 L600 360 H0Z" fill="#81ba97"/>
+  <path d="M0 325 Q150 292 300 326 T600 319 L600 360 H0Z" fill="#4c966b"/>
+</svg>
