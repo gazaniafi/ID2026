@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">ノートと鉛筆</title>
+  <desc id="desc">机の上に開いたノートと黄色い鉛筆</desc>
+  <rect width="640" height="400" fill="#e7efe9"/>
+  <ellipse cx="320" cy="350" rx="250" ry="25" fill="#c7d7ce"/>
+  <path d="M100 88 Q200 62 315 92 L315 327 Q200 300 100 331 Z" fill="#fffdf5" stroke="#536c5d" stroke-width="5"/>
+  <path d="M315 92 Q430 62 540 88 L540 331 Q430 300 315 327 Z" fill="#f9f5e9" stroke="#536c5d" stroke-width="5"/>
+  <path d="M315 92 L315 327" stroke="#7d9381" stroke-width="4"/>
+  <g stroke="#b9c5bc" stroke-width="2">
+    <path d="M130 145 L282 131 M130 187 L282 173 M130 229 L282 215 M348 131 L505 145 M348 173 L505 187 M348 215 L505 229"/>
+  </g>
+  <g transform="rotate(28 485 180)">
+    <rect x="470" y="83" width="24" height="185" rx="6" fill="#e4b248" stroke="#7c6133" stroke-width="3"/>
+    <path d="M470 268 L482 295 L494 268 Z" fill="#d8ab80" stroke="#7c6133" stroke-width="3"/>
+    <path d="M478 285 L482 295 L486 285 Z" fill="#383c3a"/>
+    <rect x="470" y="83" width="24" height="14" rx="4" fill="#dd8e88"/>
+  </g>
+</svg>
